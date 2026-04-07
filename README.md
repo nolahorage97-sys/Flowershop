@@ -45,7 +45,7 @@ Copy the `flowershop` folder into your XAMPP web root:
 Open your browser and go to:
 
 
-http://localhost/flowershop/setup.php
+http://localhost/flowershop/index.php
 
 
 This will:
